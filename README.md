@@ -1,10 +1,16 @@
-### I'm Tucker 👋
-<img style="width:200px" src="https://user-images.githubusercontent.com/28383557/161500444-c5e3a30d-8a13-4c1f-8f0d-4d21d604551d.gif">
+# Hello👋, I'm Tucker
+UE Localization Modder / Translator / Wannabe Developer
 
-### Languages
+- 🔭 I’m currently working on something cool!
+- 🌱 I'm currently learning about Backend and Database
+- 💬 Ask me about anything
+
+## Languages and Tools
 <p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=flat"> <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=flat">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain-wordmark.svg" width="30" alt="HTML5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain-wordmark.svg" width="30" alt="CSS3" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" width="30" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain-wordmark.svg" width="30" alt="Node.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" width="30" alt="Express" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original-wordmark.svg" width="30" alt="Vercel" />
 </p>
-
-
-
